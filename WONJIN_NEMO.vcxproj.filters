@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="consoleFunc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="update.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="setBoard.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gameWorks.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="startupScreen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ansGenerator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="memberMode.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="tutorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="playSound.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="consoleFunc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="update.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="setBoard.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="gameWorks.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="startupScreen.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ansGenerator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="tutorial.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="playSound.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Debug\ansData_5_1.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_2.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_3.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_4.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_5.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_6.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_7.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_8.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_5_9.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_1.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_2.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_3.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_4.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_5.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_6.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_7.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_8.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_10_9.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_1.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_2.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_3.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_4.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_5.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_6.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_7.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_8.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_15_9.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_1.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_2.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_3.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_4.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_5.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_6.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_7.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_8.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\ansData_20_9.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\editorData_5.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\editorData_10.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\editorData_15.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\editorData_20.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="Debug\startAnsData.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
